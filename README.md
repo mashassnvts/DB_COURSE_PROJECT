@@ -1,7 +1,9 @@
 # PETCLINIC
 ### **PETCLINIC ON POSTGRESQL**
 
-This course project is a database of a veterinary clinic with the implementation of the technology of migration from postrge to veterinary school, as well as the following functionality:
+MIGRATION FROM POSTGRESQL TO MYSQL
+
+This course project is a database of a veterinary clinic with the implementation of the technology of migration from postrgesql to veterinary school, as well as the following functionality:
 
 • definition of roles (administrator, user, employee);
 
